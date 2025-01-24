@@ -4,11 +4,6 @@ Starting my studies in the tech area. I love learning new things, constantly exp
 
 <br>
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ArianeMoura&theme=rose&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArianeMoura&theme=rose&hide_border=true)<br/>
 
 <br>
 
